@@ -9,6 +9,10 @@ Testing the literate plugin
 # Build
 These are just some commands to execute...
 
-`echo Hello`
+    echo Hello
 
-`env | sort`
+    env | sort
+
+And just to be safe; sleep a bit
+
+    sleep 3
